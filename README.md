@@ -20,3 +20,5 @@ Project to extract text data from an uploaded medical blood report sample pdf us
         
  - Extract only "Text" data from this JSON
  - Print it out on browser
+
+<img width="1193" alt="Screenshot 2023-01-27 at 21 19 04" src="https://user-images.githubusercontent.com/96560188/215128585-04780d4b-6a4b-4f14-8d8f-6303e8644fa1.png">
