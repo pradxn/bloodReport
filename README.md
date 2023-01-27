@@ -20,3 +20,4 @@ Project to extract text data from an uploaded medical blood report sample pdf us
         
  - Extract only "Text" data from this JSON
  - Print it out on browser
+ (if you run into any template error, put index2.html in a template folder)
